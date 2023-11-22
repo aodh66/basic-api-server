@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "655a33ba043d4a28e6991579"
+  },
+  "name": "Snugpak Ionosphere",
+  "type": "Bivy/Tent",
+  "weight": "1.5kg",
+  "poles": "Poled"
+},
+{
+  "_id": {
+    "$oid": "655a3428043d4a28e699157a"
+  },
+  "name": "MLD Duomid",
+  "type": "Pyramid Tarp",
+  "weight": "0.5kg",
+  "poles": "Trekking Pole"
+},
+{
+  "_id": {
+    "$oid": "655a3452043d4a28e699157b"
+  },
+  "name": "MLD Grace Duo",
+  "type": "Cat Tarp",
+  "weight": "0.4kg",
+  "poles": "Trekking Pole"
+},
+{
+  "_id": {
+    "$oid": "655a3479043d4a28e699157c"
+  },
+  "name": "DCF Tarp",
+  "type": "Flat Tarp",
+  "weight": "0.15kg",
+  "poles": "Trekking Pole"
+}]
